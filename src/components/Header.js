@@ -6,8 +6,8 @@ const Header = ({title}) => {
   return (
     <header>
 <h1>{title}</h1>
-<Button color='pink' text='Hey there'/>
-<Button />
+{/* <Button color='pink' text='Hey there'/>
+<Button /> */}
 
     </header>
   )

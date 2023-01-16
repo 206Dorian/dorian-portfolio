@@ -10,6 +10,7 @@ const ContactMe = () => {
         
         Email: <a href="mailto: 206dorian@gmail.com">206dorian@gmail.com</a>
         
+        Resume: <a href="mailto: 206dorian@gmail.com">206dorian@gmail.com</a>
     </>
   )
 }

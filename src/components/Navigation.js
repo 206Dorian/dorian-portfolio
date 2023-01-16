@@ -7,11 +7,11 @@ export default function Navigation() {
 
     <nav className="main-header-menu"
     style={{
-      display: 'flex',
-      fontFamily: 'helvetica',
-      flexDirection: 'row',
-      alignItems: 'flex-start',
-      justifyContent: 'flex-start',
+      // display: 'flex',
+      // fontFamily: 'helvetica',
+      // flexDirection: 'row',
+      // alignItems: 'center',
+      // justifyContent: 'flex-start',
     }}>
       
       

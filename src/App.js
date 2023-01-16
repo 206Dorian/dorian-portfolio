@@ -7,7 +7,11 @@ import 'bulma/css/bulma.min.css';
 import ProjectCards from "./components/ProjectCards";
 import ContactMe from "./components/ContactMe";
 
+import Form from "./components/Form";
+
+
 function App() {
+  
   return (
     <container className="App">
 
@@ -21,9 +25,9 @@ function App() {
 
       <ProjectCards />
 
-
       <ContactMe />
 
+      <Form />
 
       <Footer />
 
