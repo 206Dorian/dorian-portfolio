@@ -11,28 +11,36 @@ import Form from "./components/Form";
 
 
 function App() {
-  
+
   return (
     <container className="App">
-
+      <br></br>
       <Header />
-
+      <br></br>
 
       <Navigation />
-
+      <br></br>
 
       <Projects />
+      <br></br>
 
       <ProjectCards />
+      <br></br>
 
       <ContactMe />
+      <br></br>
 
       <Form />
-
+      <br></br>
+      <br></br>
+      
       <Footer />
+      <br></br>
+      <br></br>
 
 
     </container>
+
   );
 }
 

@@ -24,6 +24,13 @@ const ProjectCard = () => {
       <div id="muffins"> <img src={muffin} />
         Muffins Attack</div>
 
+        <div id="more"> <img src={discoball} />
+        One more </div>
+
+
+      <div id="another"> <img src={muffin} />
+        Another project</div>
+
 
     </>
   )

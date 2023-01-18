@@ -10,7 +10,7 @@ html {
     /* background-color: rgb(69, 179, 206); */
     color: rgb(17, 66, 109);
     background-image: linear-gradient( rgb(58, 99, 188),  rgb(69, 179, 206), rgb(30, 185, 182),
-        white, rgb(30, 185, 182), rgb(69, 179, 206));
+        white, rgb(30, 185, 182), rgb(69, 179, 206), rgb(58,99,188));
   }
   
   /*Centered text and made bigger*/
@@ -65,7 +65,7 @@ html {
   }
   
   #bread {
-    background-color: rgb(229, 233, 237);
+    background-color: rgb(188, 196, 204);
     display: block;
   }
   
@@ -76,7 +76,7 @@ html {
   }
   
   #muffins {
-    background-color: rgb(219, 133, 212);
+    background-color: rgb(200, 163, 197);
   
   }
   
