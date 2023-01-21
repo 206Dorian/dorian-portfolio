@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dorian-portfolio/static/css/main.bf05db6b.css",
-    "main.js": "/dorian-portfolio/static/js/main.44877aa7.js",
+    "main.js": "/dorian-portfolio/static/js/main.4b76c24a.js",
     "static/media/profile.PNG": "/dorian-portfolio/static/media/profile.4fdce917b4d66b4ac5c0.PNG",
     "static/media/shopping cart for art cart.png": "/dorian-portfolio/static/media/shopping cart for art cart.6e0ea9909d776792336a.png",
     "static/media/muffin.jpg": "/dorian-portfolio/static/media/muffin.b26ad5098e1ff33b5e8a.jpg",
@@ -9,10 +9,10 @@
     "static/media/icon.png": "/dorian-portfolio/static/media/icon.2a65e21d7ffdffa4ea06.png",
     "index.html": "/dorian-portfolio/index.html",
     "main.bf05db6b.css.map": "/dorian-portfolio/static/css/main.bf05db6b.css.map",
-    "main.44877aa7.js.map": "/dorian-portfolio/static/js/main.44877aa7.js.map"
+    "main.4b76c24a.js.map": "/dorian-portfolio/static/js/main.4b76c24a.js.map"
   },
   "entrypoints": [
     "static/css/main.bf05db6b.css",
-    "static/js/main.44877aa7.js"
+    "static/js/main.4b76c24a.js"
   ]
 }
