@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dorian-portfolio/static/css/main.fb8b3b30.css",
-    "main.js": "/dorian-portfolio/static/js/main.37739e22.js",
+    "main.css": "/dorian-portfolio/static/css/main.e33f5c9f.css",
+    "main.js": "/dorian-portfolio/static/js/main.d8d3a1ab.js",
     "static/media/profile.PNG": "/dorian-portfolio/static/media/profile.4fdce917b4d66b4ac5c0.PNG",
     "static/media/questionmark.jpg": "/dorian-portfolio/static/media/questionmark.472d887b057cdec380ec.jpg",
     "static/media/shopping cart for art cart.png": "/dorian-portfolio/static/media/shopping cart for art cart.6e0ea9909d776792336a.png",
@@ -10,11 +10,11 @@
     "static/media/discoball.jpg": "/dorian-portfolio/static/media/discoball.5243e29954144769c41d.jpg",
     "static/media/icon.png": "/dorian-portfolio/static/media/icon.2a65e21d7ffdffa4ea06.png",
     "index.html": "/dorian-portfolio/index.html",
-    "main.fb8b3b30.css.map": "/dorian-portfolio/static/css/main.fb8b3b30.css.map",
-    "main.37739e22.js.map": "/dorian-portfolio/static/js/main.37739e22.js.map"
+    "main.e33f5c9f.css.map": "/dorian-portfolio/static/css/main.e33f5c9f.css.map",
+    "main.d8d3a1ab.js.map": "/dorian-portfolio/static/js/main.d8d3a1ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb8b3b30.css",
-    "static/js/main.37739e22.js"
+    "static/css/main.e33f5c9f.css",
+    "static/js/main.d8d3a1ab.js"
   ]
 }
