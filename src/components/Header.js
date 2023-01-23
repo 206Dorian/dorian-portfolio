@@ -19,7 +19,7 @@ const Header = ({ title }) => {
 }
 
 Header.defaultProps = {
-  title: 'Dorians Portfolio'
+  title: "Dorian's Portfolio"
 }
 
 Header.propTypes = {

@@ -2,7 +2,7 @@ import React from 'react'
 
 const ContactMe = () => {
   return (
-    <> 
+    <div className = "ContactMe"> 
     
     <strong>How to get in touch with me:</strong>
         <br></br>
@@ -10,8 +10,8 @@ const ContactMe = () => {
         <br></br>
         Email: <a href="mailto: 206dorian@gmail.com">206dorian@gmail.com</a>
         <br></br>
-        Resume: <a href="resume">need resume here</a>
-    </>
+        {/* Resume: <a href="">Resume</a> */}
+    </div>
   )
 }
 

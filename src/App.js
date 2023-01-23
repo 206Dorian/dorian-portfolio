@@ -1,25 +1,30 @@
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Navigation from "./components/Navigation";
-import Projects from "./components/Projects";
 import './App.css'
 import 'bulma/css/bulma.min.css';
-import ProjectCards from "./components/ProjectCards";
-import ContactMe from "./components/ContactMe";
+import ProjectCards from "./components/pages/ProjectCards";
+import ContactMe from "./components/pages/ContactMe";
 
 import Form from "./components/Form";
 
+import PortfolioContainer from "./components/PortfolioContainer";
 
 function App() {
 
   return (
     <container className="App">
       <br></br>
+
+<PortfolioContainer/>
+
+
+      {/* <Navigation />
+
+      <br></br>
       <Header />
       <br></br>
 
-      <Navigation />
-      <br></br>
 
       <Projects />
       <br></br>
@@ -33,11 +38,10 @@ function App() {
       <Form />
       <br></br>
       <br></br>
-      
+
       <Footer />
       <br></br>
-      <br></br>
-
+      <br></br> */}
 
     </container>
 

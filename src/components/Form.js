@@ -2,9 +2,12 @@ import React from 'react'
 
 const Form = () => {
   return (
-    <>
+    <div>
+      
 
-      <strong>Sign up to keep in contact with me</strong>
+      <br></br>
+
+      <strong>Sign up to keep in contact</strong>
 
 
 
@@ -24,7 +27,7 @@ const Form = () => {
         <br></br>
 
         <label>
-          Whatever:
+          Your github or link:
           <input type="text" name=" name" />
         </label>
 
@@ -32,11 +35,8 @@ const Form = () => {
 
         <input type="submit" value="Submit" />
       </form>
-    
 
-
-
-    </>
+    </div>
   )
 }
 
