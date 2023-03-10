@@ -30,7 +30,7 @@ export default function PortfolioContainer() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div>
+    <card>
       {/* We are passing the currentPage from state and the function to update it */}
       <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
 
@@ -38,6 +38,8 @@ export default function PortfolioContainer() {
       {renderPage()}
 
       <Footer/>
-    </div>
+      <br></br>
+      <br></br>
+    </card>
   );
 }

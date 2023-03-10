@@ -4,7 +4,8 @@ import React from 'react';
 // We assign them to their own variable names
 function Navigation({ currentPage, handlePageChange }) {
   return (
-    <ul className="nav nav-tabs">
+    <card id="navi">
+    <ul className="nav nav-tabs" id="navi">
       <li className="nav-item">
         <a
           href=".ProjectCards"
@@ -47,6 +48,7 @@ function Navigation({ currentPage, handlePageChange }) {
         </a>
       </li>
     </ul>
+    </card>
   );
 }
 
